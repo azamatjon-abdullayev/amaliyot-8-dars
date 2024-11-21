@@ -1,3 +1,4 @@
+print("salom")
 import psycopg2
 class DataBase:
     def init(self):
